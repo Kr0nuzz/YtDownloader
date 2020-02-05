@@ -1,11 +1,11 @@
 # YtDownloader
 
-#Penggunaan
+# Penggunaan
 
 Kualitas Tersedia 144p, 240p, 360, 480, 720, ,1080p   contoh  : Masukkan Kualitas Video>> 144
 frame rate Tersedia 30, 60  contoh  : Masukkan FPS>> 30
 
-#instalasi
+# Instalasi
  
  $apt-get update
  
